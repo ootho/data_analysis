@@ -1,21 +1,20 @@
-<h1>🔭 Data Analysis</h1>
+
+<h1>🔭 Анализ данных</h1>
 
 <blockquote>
 
-[**yp_borrower_evaluation**](https://github.com/ootho/data_analysis/blob/main/yp_borrower_evaluation)
- Researching the creditworthiness of bank borrowers and identifying key criteria for building a scoring model.
+[**yp_borrower_evaluation**](https://github.com/ootho/data_analysis/blob/main/yp_borrower_evaluation/yp_borrower_evaluation.ipynb)
+ Исследование платёжеспособности кредиторов банка и определение критериев для построения скоринговой модели.
 </blockquote>
 
 <blockquote>
 
-[**yp_game_analysis**](https://github.com/ootho/data_analysis/blob/main/yp_game_analysis)
- 🎮 Based on historical data on game sales, user and expert ratings, and other features, it is necessary to identify patterns that determine the success of a game. This will allow making bets on potentially popular products and planning an advertising campaign for the next year.
+[**yp_game_analysis**](https://github.com/ootho/data_analysis/blob/main/yp_game_analysis/game_analysis.ipynb)
+ 🎮 На основе исторических данных по продажам игр, оценок пользователей и экспертов, а также других признаков необходимо определить паттерны определяющие успех игры. Это позволит сделать ставку на потенциально популярные продукты и спрогнозировать рекламную компанию на следующий год.
 </blockquote>
 
 <blockquote>
 
-[**yp_    real_estate**](https://github.com/ootho/data_analysis/blob/main/yp_real_estate)
- 🏡 We have access to the archive of real estate listings for the sale of apartments in St. Petersburg and neighboring areas over several years. The goal of the study is to determine the market value of real estate properties.
+[**yp_    real_estate**](https://github.com/ootho/data_analysis/blob/main/yp_real_estate/real_estate.ipynb)
+ 🏡 Цель проекта - используя данные сервиса Яндекс.Недвижимость, определить рыночную стоимость объектов недвижимости и типичные параметры квартир.
 </blockquote>
-
-<br>
