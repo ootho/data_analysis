@@ -4,7 +4,7 @@
 
 ## Objective and Research Goals
 
-We have access to data from the Yandex.Real Estate service, which includes a collection of advertisements for the sale of apartments in St. Petersburg and neighboring areas over several years. The objective of this research is to determine the market value of real estate properties.
+We have access to the archive of real estate listings for the sale of apartments in St. Petersburg and neighboring areas over several years. The goal of the study is to determine the market value of real estate properties.
 
 For each apartment listing, two types of data are available. The first type is provided by the user, while the second type is automatically generated based on cartographic data. For example, it includes information such as distance to the city center, airport, nearest park, and water bodies.
 

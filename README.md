@@ -1,7 +1,7 @@
-<h1>🔭 Data Analysis</h1>
+
+<h1>🔭 Анализ данных</h1>
 
 <blockquote>
-
 [**borrower_evaluation**](https://github.com/ootho/data_analysis/blob/main/borrower_evaluation)
  Researching the creditworthiness of bank borrowers and identifying key criteria for building a scoring model.
 </blockquote>
